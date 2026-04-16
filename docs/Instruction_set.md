@@ -1,0 +1,7 @@
+- 0000 : NOP (No operation)
+- 0001 : LDA (Load data into Accumulator)
+- 0010 : ADD (perform addition)
+- 0011 : SUB (perform subtraction)
+- 0100 : STA (Store data from Accumulator into memory)
+- 1110 : OUT (Output data)
+- 1111 : HLT (Halt execution)
