@@ -71,27 +71,61 @@ The Arduino is responsible for:
 📁 Code available in:
 
 ```
-arduino/clock_control_unit/
+arduino_control_unit/
 ```
 
 ---
 
 ## 📸 Media
 
+<p align="center">
+  <img src="Media/Images/7-seg-display.jpg" width="600"><br>
+  <em>7-segment display output</em>
+</p>
+
+<p align="center">
+  <img src="Media/Images/ALU.jpg" width="600"><br>
+  <em>ALU demonstration</em>
+</p>
+
+<p align="center">
+  <img src="Media/Images/Full.jpg" width="600"><br>
+  <em>7-segment display output</em>
+</p>
+
+<p align="center">
+  <img src="Media/Images/Instruction reg.jpg" width="600"><br>
+  <em>7-segment display output</em>
+</p>
+
+<p align="center">
+  <img src="Media/Images/PC.jpg" width="600"><br>
+  <em>7-segment display output</em>
+</p>
+
+<p align="center">
+  <img src="Media/Images/RAM.jpg" width="600"><br>
+  <em>7-segment display output</em>
+</p>
+
 Images and videos of the working system are available in the `media/` folder.
+
+---
+
+## 🎥 Demo
+
+Download and view demo videos from the `media/videos/` folder.
 
 ---
 
 ## 📂 Project Structure
 
-```
 8-bit-computer/
 │── arduino/
 │── docs/
 │── Media/
 │── architecture.md
 │── README.md
-```
 
 ---
 
@@ -116,4 +150,3 @@ Images and videos of the working system are available in the `media/` folder.
 ## 📜 License
 
 MIT License
-       
