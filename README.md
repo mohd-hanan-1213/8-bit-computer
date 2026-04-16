@@ -80,32 +80,32 @@ arduino/clock_control_unit/
 
 <p align="center">
   <img src="Media/Images/PC.jpg" width="600"><br>
-  <em>7-segment display output</em>
+  <em>Program Counter</em>
 </p>
 
 <p align="center">
   <img src="Media/Images/Instruction reg.jpg" width="600"><br>
-  <em>7-segment display output</em>
+  <em>Instruction Register</em>
 </p>
 
 <p align="center">
   <img src="Media/Images/RAM.jpg" width="600"><br>
-  <em>7-segment display output</em>
+  <em>RAM</em>
 </p>
 
 <p align="center">
   <img src="Media/Images/ALU.jpg" width="600"><br>
-  <em>ALU demonstration</em>
+  <em>ALU</em>
 </p>
 
 <p align="center">
   <img src="Media/Images/7-seg-display.jpg" width="600"><br>
-  <em>7-segment display output</em>
+  <em>7-segment display</em>
 </p>
 
 <p align="center">
   <img src="Media/Images/Full.jpg" width="600"><br>
-  <em>7-segment display output</em>
+  <em>8-bit computer</em>
 </p>
 
 Images and videos of the working system are available in the `media/` folder.
