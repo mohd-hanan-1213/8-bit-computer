@@ -84,7 +84,7 @@ arduino/clock_control_unit/
 </p>
 
 <p align="center">
-  <img src="Media/Images/Instruction reg.jpg" width="600"><br>
+  <img src="Media/Images/Instruction-Reg.jpg" width="600"><br>
   <em>Instruction Register</em>
 </p>
 
